@@ -1,0 +1,7 @@
+spring:
+  application:
+    name: testspr
+
+
+server:
+  port: 8000
